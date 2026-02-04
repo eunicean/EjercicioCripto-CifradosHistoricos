@@ -95,9 +95,9 @@ def vigenereDescifrado(mensaje, llave):
 
 # print(cesarFuerzaBruta(mensaje))
 
-mensaje = "MI EJERCICIO de CIFRADO HISTORICO"
-llave = "CLAVE"
+# mensaje = "MI EJERCICIO de CIFRADO HISTORICO"
+# llave = "CLAVE"
 
-print(vigenereCifrado(mensaje, llave))
-print(vigenereDescifrado(vigenereCifrado(mensaje, llave), llave))
+# print(vigenereCifrado(mensaje, llave))
+# print(vigenereDescifrado(vigenereCifrado(mensaje, llave), llave))
 
